@@ -1,0 +1,21 @@
+<svg id="calendar_1_" data-name="calendar (1)" xmlns="http://www.w3.org/2000/svg" width="37.865" height="37.865" viewBox="0 0 37.865 37.865">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_18" data-name="Group 18" transform="translate(0)">
+    <g id="Group_17" data-name="Group 17">
+      <path id="Path_37" data-name="Path 37" class="cls-1" d="M3.155,12.622h28.4v4.733h3.155V3.155a1.578,1.578,0,0,0-1.578-1.578H26.821V0H23.665V1.578H18.932V0H15.777V1.578H11.044V0H7.888V1.578H1.578A1.578,1.578,0,0,0,0,3.155V28.4a1.578,1.578,0,0,0,1.578,1.578h14.2V26.821H3.155Zm0-7.889H7.889V6.311h3.155V4.733h4.733V6.311h3.155V4.733h4.733V6.311h3.155V4.733h4.733V9.466H3.155V4.733Z" transform="translate(0)"/>
+      <rect id="Rectangle_51" data-name="Rectangle 51" class="cls-1" width="3.155" height="3.155" transform="translate(6.311 15.777)"/>
+      <rect id="Rectangle_52" data-name="Rectangle 52" class="cls-1" width="3.155" height="3.155" transform="translate(12.622 15.777)"/>
+      <rect id="Rectangle_53" data-name="Rectangle 53" class="cls-1" width="3.155" height="3.155" transform="translate(18.932 15.777)"/>
+      <rect id="Rectangle_54" data-name="Rectangle 54" class="cls-1" width="3.155" height="3.155" transform="translate(6.311 20.51)"/>
+      <rect id="Rectangle_55" data-name="Rectangle 55" class="cls-1" width="3.155" height="3.155" transform="translate(12.622 20.51)"/>
+      <path id="Path_38" data-name="Path 38" class="cls-1" d="M265.466,256a9.466,9.466,0,1,0,9.466,9.466A9.466,9.466,0,0,0,265.466,256Zm0,15.777a6.311,6.311,0,1,1,6.311-6.311A6.311,6.311,0,0,1,265.466,271.777Z" transform="translate(-237.068 -237.068)"/>
+      <path id="Path_39" data-name="Path 39" class="cls-1" d="M328.488,332.913l-2.28-3.42-2.625,1.75,3.155,4.733a1.6,1.6,0,0,0,2.188.437l4.733-3.155-1.75-2.625Z" transform="translate(-299.653 -305.125)"/>
+    </g>
+  </g>
+</svg>
